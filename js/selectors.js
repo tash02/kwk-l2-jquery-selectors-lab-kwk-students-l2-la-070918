@@ -9,7 +9,7 @@ function liInOlSelector (){
 }
 
 function linkSelector (){
-  return $("")
+  return $("div.box4.box5")
 }
 
 function imageSelector (){
