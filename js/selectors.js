@@ -9,7 +9,7 @@ function liInOlSelector (){
 }
 
 function linkSelector (){
-  
+  return $
 }
 
 function imageSelector (){
