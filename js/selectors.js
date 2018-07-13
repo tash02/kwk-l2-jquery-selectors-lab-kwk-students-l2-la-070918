@@ -3,3 +3,19 @@
 function h1Selector (){
   
 }
+
+function liInOlSelector (){
+  
+}
+
+function linkSelector (){
+  
+}
+
+function imageSelector (){
+  
+}
+
+function checkboxInputSelector (){
+  
+}
